@@ -1,0 +1,26 @@
+[
+    {
+        "flight":"Indogo",
+        "from":"Delhi", 
+        "to":"Mumbai",
+        "price":"999"
+    },
+    {
+        "flight":"AirGo",
+        "from":"Delhi", 
+        "to":"Karnataka",
+        "price":"2999"
+    },
+    {
+        "flight":"TaraAir",
+        "from":"Delhi", 
+        "to":"Kathmandu",
+        "price":"99999999"
+    },
+    {
+        "flight":"BuddhaAir",
+        "from":"Kathmandu", 
+        "to":"Bangluru",
+        "price":"6666666"
+    }
+]
